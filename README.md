@@ -49,8 +49,9 @@ Data utama:
 ## 📁 File
 
 - `E-commerce sales over view.pbix` → file Power BI dashboard utama
+## 📁 File Download
 
----
+🔗 [Download E-commerce Sales Dashboard (.pbix)](https://drive.google.com/file/d/1Z1kBWGIu0lSm6bwOTPvNuZCjx4yU3j4F/view?usp=sharing)
 
 ## 📬 Kontak
 
